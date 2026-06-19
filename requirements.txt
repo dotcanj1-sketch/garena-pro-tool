@@ -1,5 +1,5 @@
 streamlit
 requests
 pycryptodome
-urllib3
 protobuf
+urllib3
